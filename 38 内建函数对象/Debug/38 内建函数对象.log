@@ -1,0 +1,16 @@
+﻿  38 内建函数对象.cpp
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(16,20): warning C4101: “mymultipulies”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(20,16): warning C4101: “mynegate”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(17,17): warning C4101: “mydivides”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(15,15): warning C4101: “myminus”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(18,17): warning C4101: “mymodulus”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(32,23): warning C4101: “f4”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(30,22): warning C4101: “f2”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(29,18): warning C4101: “f1”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(34,20): warning C4101: “f6”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(33,14): warning C4101: “f5”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(31,17): warning C4101: “f3”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(41,20): warning C4101: “f2”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(40,21): warning C4101: “f1”: 未引用的局部变量
+C:\Users\HP\Desktop\C++ STL\38 内建函数对象\38 内建函数对象.cpp(43,21): warning C4101: “f3”: 未引用的局部变量
+  38 内建函数对象.vcxproj -> C:\Users\HP\Desktop\C++ STL\Debug\38 内建函数对象.exe

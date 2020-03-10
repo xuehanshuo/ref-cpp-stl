@@ -1,0 +1,4 @@
+﻿  25 string容器.cpp
+C:\Users\HP\Desktop\C++ STL\25 string容器\25 string容器.cpp(48,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\HP\Desktop\C++ STL\25 string容器\25 string容器.cpp(53,23): warning C4018: “<”: 有符号/无符号不匹配
+  25 string容器.vcxproj -> C:\Users\HP\Desktop\C++ STL\Debug\25 string容器.exe
